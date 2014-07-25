@@ -1,0 +1,13 @@
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\websocket-sharp.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+C:\Users\Stmulcah\Documents\spacebrewexample\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\Stmulcah\Documents\spacebrewexample\obj\Debug\Assembly-CSharp-firstpass.pdb
