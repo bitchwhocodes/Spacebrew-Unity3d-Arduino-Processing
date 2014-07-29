@@ -7,7 +7,8 @@ I have written an in-depth tutorial here:
 + Starting a local Spacebrew server http://thebitchwhocodes.com/2014/07/24/internet-of-th…acebrew-part-1
 + Hooking Up Unity with Spacebrew http://thebitchwhocodes.com/2014/07/24/internet-of-th…acebrew-part-2
 + Hooping up Processing and Arduino to Spacebrew http://thebitchwhocodes.com/2014/07/24/internet-of-th…acebrew-part-3
-I have posted a powerpoint with the steps ( a bit shorter ) - https://onedrive.live.com/redir?resid=7F39F5A167CA774F%2112047
++ I have posted a powerpoint with the steps ( a bit shorter ) - https://onedrive.live.com/redir?resid=7F39F5A167CA774F%2112047
++ I also posted to SpeakerDeck online https://speakerdeck.com/bitchwhocodes/spacebrew-unity3d-processing-and-arduino
 
 This repository has three folders:
 + Processing - code for the processing portion with Arduino
